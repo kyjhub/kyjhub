@@ -1,8 +1,7 @@
 ### Hi there 👋
-### Name : Yong-jun Kwon
-### university : SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY
-### Major : computer engineering
- 
+### My name is Yong-jun Kwon
+![](https://unsplash.com/photos/4pAJ27IplP4)
+
 
 <!--
 **kyjhub/kyjhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
